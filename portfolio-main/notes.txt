@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=FTH6Dn3AyIQ&list=PL6QREj8te1P56tahJwEbyDZNVAnCclTc4&index=5
+
+aceternity UI  <-  used here
+Chakra UI
+Meterial UI
+Bootstrap
+Tailwind UI
+Next UI
+Semantic UI
